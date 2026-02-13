@@ -1,0 +1,7 @@
+download link nya di sini 
+https://ohmyz.sh/#install
+
+oh my zsh di peruntukan curl
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+oh my zsh di peruntukan wget
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
